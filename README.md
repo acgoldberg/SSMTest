@@ -1,0 +1,1 @@
+# SSMTest   江哥好,配置文件在SSMTest\SSMTest\src\main\resources\conf,项目从index.jsp页面开始,输入customer_name两遍后,登陆到login.jsp页面,点击"Customer1管理(首页)"，显示customer前15条数据,上一页,下一页,尾页,都可以使用,右上角"退出"可以返回到/views/index.jsp，实现的功能大部分是通过js实现,编辑功能和删除功能没有实现.
